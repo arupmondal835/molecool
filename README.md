@@ -16,6 +16,12 @@ this packages requies the following:
 -NumPy
 -Matplotlib
 
+
+Feature should be developed on branches. to crate and switch to a brach , use the command
+`git checkout -b new_branch_name`
+to switch to an existing branch , use
+`git checkout branch_name`
+
 ### Copyright
 
 Copyright (c) 2020, arup mondal
