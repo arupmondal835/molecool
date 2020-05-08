@@ -7,6 +7,10 @@ molecool
 
 a python package for analysing anf visualizing pdb and xyz file.
 
+This repository is under development. to developmental install, download this repository and type
+
+`pip install -e .`
+
 ### Copyright
 
 Copyright (c) 2020, arup mondal
