@@ -2,9 +2,9 @@
 this is start of testing.txt
 ****************************************
 
-
+I added this file from the Github web interface
 I added this file from a new clone
 ***************************************
 
 this file doed not add any value
-****************************************
+
