@@ -1,3 +1,10 @@
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+
+from mpl_toolkits.mplot3d import Axes3D
+
+
 """
 functions.py
 a python package for analysing anf visualizing pdb and xyz file.
