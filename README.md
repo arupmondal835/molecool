@@ -22,6 +22,9 @@ Feature should be developed on branches. to crate and switch to a brach , use th
 to switch to an existing branch , use
 `git checkout branch_name`
 
+To submit your feature to be incorporated into master branch, you should submit a 'Pull Request'. the repository maintainers will review your pull request before accepting your change
+
+
 ### Copyright
 
 Copyright (c) 2020, arup mondal
